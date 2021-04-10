@@ -12,5 +12,4 @@ Desktop-компонент поддерживает ОС `Windows` и `Linux`.
 
 Следует отметить, что все вышеперечисленные браузеры, кроме `Firefox`, основаны на `Chromium`. Данный факт следует учитывать при проведении тестирования `Recluse`.
 
-[Your Title](RecluseTestPlan/tree/master/src/test_case1.md)
-
+[Your Title](RecluseTestPlan/blob/main/src/test_case1.md)
